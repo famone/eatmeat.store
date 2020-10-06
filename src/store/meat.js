@@ -327,6 +327,9 @@ const meat = {
   		},
   		REMOVE_FROM_CART(state, playload){
   			state.cart.splice(playload, 1);
+  		},
+  		CART_NULL(state){
+  			state.cart = []
   		}
   	},
 	actions: {
@@ -348,7 +351,10 @@ const meat = {
 		},
 		removeFromCart({commit}, playload){
 			commit('REMOVE_FROM_CART', playload)
-		}
+		},
+		cartToNull({commit}){
+			commit('CART_NULL')
+		},
 	},
 	getters: {
   		getTotal(state){
