@@ -30,9 +30,9 @@
 
 
 				<div class="cont-footer">
-						<p><a href="mailto:dmitry.sachkov@mail.ru">dmitry.sachkov@mail.ru</a></p>
+						<p><a href="mailto:info@eatmeat.store">info@eatmeat.store</a></p>
 						<p><a href="tel:+79218623930">+7 921 862-39-30</a></p>
-						<p>г. Гатчина, Рощинская 13-б</p>
+						<p>д. Большое Рейзино 80</p>
 					</div>
 				</div>
 		</div>

@@ -15,7 +15,7 @@
 				<div class="cont-box text-center">
 					<img src="../assets/img/mail.svg" alt="">
 					<h3>E-mail:</h3>
-					<p><a href="mailto:dmitry.sachkov@mail.ru">dmitry.sachkov@mail.ru</a></p>
+					<p><a href="mailto:info@eatmeat.store">info@eatmeat.store</a></p>
 				</div>
 			</div>
 			<div class="col-lg-4">

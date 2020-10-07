@@ -21,8 +21,6 @@
 			</div>
 		</div>
 	</section>
-
-	<Callback />
 	</div>
 </template>	
 
